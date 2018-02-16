@@ -7,7 +7,7 @@ Refereed Journals
 """""""""""""""""
 .. note:: For a complete list, see my profiles at
 	  `google scholar <https://scholar.google.com/citations?hl=en&user=tZ2L1qMAAAAJ&view_op=list_works&sortby=pubdate>`_
-	  or `ResearcherID <http://www.researcherid.com/rid/A-2529-2016>`_
+	  or `ORCID <https://orcid.org/0000-0001-9233-0100>`_
 
 * Monte Carlo Neutron Ray-tracing
 
@@ -56,21 +56,16 @@ Presentations
 """""""""""""
 #. **Jiao Lin** et al, Invited talk, Monte Carlo simulations of multiple scattering from samples and sample environments, WINS, Grenoble, France, May 2014
 
-#. **Jiao Lin**, Monte Carlo neutron scattering simulation and ARCS data, SNS seminar, Oak Ridge, March 2013
-
 #. **Jiao Lin**, J Brandon Keith, Michael Mckerns, Michael Aivazis, Brent Fultz, Virtual Neutron Facility, ICNS, May 2009
 
 #. **Jiao Lin**, DrChops, Direct Geometry Spectrometer Software Meeting, May 2009
 
-#. **Jiao Lin**, Monte-Carlo simulation of neutron scattering with DANSE, SNS Instrument simulation seminar, January 2007
-
-#. **Jiao Lin**, Max Kresch, Patrick Hung, John McCorquodale, Olivier Delaire, Tim Kelley, Mike McKerns, Michael Aivazis, Brent Fultz, Reduction Package for Neutron Inelastic Time-of-Flight Instruments, Nobugs Meeting, October 2006.
-
-#. **Jiao Lin**, Garrett Granroth, Olivier Delaire, Doug Albernathy, Michael Aivazis, Brent Fultz, Monte Carlo simulation of ARCS instrument using pyre framework, SNS-HFIR User Meeting, October 2005. 
-
 #. **Jiao Lin**, Ryan Monson, and Brent Fultz, Long-range order of defects revealed by Mossbauer powder diffractometry, APS 2005 March Meeting
 
+.. #. **Jiao Lin**, Monte Carlo neutron scattering simulation and ARCS data, SNS seminar, Oak Ridge, March 2013
+.. #. **Jiao Lin**, Monte-Carlo simulation of neutron scattering with DANSE, SNS Instrument simulation seminar, January 2007
+.. #. **Jiao Lin**, Max Kresch, Patrick Hung, John McCorquodale, Olivier Delaire, Tim Kelley, Mike McKerns, Michael Aivazis, Brent Fultz, Reduction Package for Neutron Inelastic Time-of-Flight Instruments, Nobugs Meeting, October 2006.
+.. #. **Jiao Lin**, Garrett Granroth, Olivier Delaire, Doug Albernathy, Michael Aivazis, Brent Fultz, Monte Carlo simulation of ARCS instrument using pyre framework, SNS-HFIR User Meeting, October 2005. 
 .. #. **Jiao Lin**, Virtual Neutron Facility, DANSE-Mantid workshop, London, Jan 2011
-
 .. #. **Jiao Lin**, Luban, DANSE-Mantid workshop, London, Jan 2011
 

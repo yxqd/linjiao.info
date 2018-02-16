@@ -71,4 +71,4 @@ Funding
 * 2006-2012 NSF DANSE software project. \$2.4M/year. **Lead developer** of the inelastic group
 * 2004-2006 ARCS software project. \$580K/year. **Developer**
 
-`Longer CV <CV.pdf>`_
+`CV in PDF format <CV.pdf>`_

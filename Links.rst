@@ -12,4 +12,4 @@ Links
 * Google: http://google.com
 
 
-`My ORNL profile <https://www.ornl.gov/staff-profile/dr-jiao-lin>`_
+`My ORNL profile <https://www.ornl.gov/staff-profile/jiao-lin>`_

@@ -9,10 +9,10 @@ MCViNE
 http://docs.danse.us/MCViNE
 
 
-nerdyland
-------
-
-http://nerdyland.org
+.. nerdyland
+.. ------
+.. 
+.. http://nerdyland.org
 
 
 histogram
@@ -21,10 +21,10 @@ histogram
 http://docs.danse.us/histogram
 
 
-Luban
------
+.. Luban
+.. -----
 
-http://lubanui.org
+.. http://lubanui.org
 
 
 pyre
@@ -33,7 +33,24 @@ pyre
 http://docs.danse.us/pyre/sphinx/
  
 
-VNF
----
+multiphonon
+-----------
 
-https://vnf.caltech.edu
+https://github.com/sns-chops/multiphonon
+
+
+iMars3D
+-------
+
+https://github.com/ornlneutronimaging/iMars3D
+
+
+Bragg Edge Modeling
+-------------------
+
+https://github.com/ornlneutronimaging/braggedgemodeling
+
+.. VNF
+.. ---
+
+.. https://vnf.caltech.edu

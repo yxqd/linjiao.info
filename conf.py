@@ -45,7 +45,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'linjiaohome'
-copyright = u'2009-2015, Jiao Lin'
+copyright = u'2009-2018, Jiao Lin'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -199,3 +199,6 @@ latex_documents = [
 
 # If false, no module index is generated.
 #latex_use_modindex = True
+
+def setup(app):
+    app.add_stylesheet('css/custom.css')

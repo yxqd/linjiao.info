@@ -2,7 +2,7 @@
 
 build html:
 
- $ make html
+ $ ./build
 
 upload to linjiao.info
 

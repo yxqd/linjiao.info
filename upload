@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+rsync -a _build/html/ linjiao.info:homepage/
